@@ -1,5 +1,1 @@
-const saudacao = (nome: string): string => {
-    return `Olá, ${nome}!`;
-}
-
-console.log(saudacao('Antonio'));
+console.log("Server iniciado")
