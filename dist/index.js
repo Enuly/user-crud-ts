@@ -1,5 +1,2 @@
 "use strict";
-const saudacao = (nome) => {
-    return `Olá, ${nome}!`;
-};
-console.log(saudacao('Antonio'));
+console.log("Server iniciado");
